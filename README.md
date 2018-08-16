@@ -1,1 +1,1 @@
-# joomla15--environment
+# joomla15-environment
